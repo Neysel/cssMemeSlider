@@ -70,7 +70,7 @@ display: flex;
 justify-content: space-around;
 }
 
-.navigation div {
+.navigation span {
     height: 0.75em;
     width: 0.75em;
     border-radius: 50%;
@@ -83,6 +83,7 @@ label.bar {
     height: 0.75em;
     width: 0.75em;
     transition: all 0.5s ease;
+    display: flex;
 }
 
 label.bar:hover {
@@ -112,7 +113,7 @@ input[name='r'] {
     height: 100%;
 }
 
-label:hover div {
+label:hover span {
     background-color: #01b3fa;
   }
 
@@ -330,7 +331,7 @@ label:hover div {
     margin-bottom: 5%
  }
 
- div.wrapper_down > div.wrapper_nav > div > label div {
+ div.wrapper_down > div.wrapper_nav > div > label span {
     height: 0.5em;
     width: 0.5em;
  }
