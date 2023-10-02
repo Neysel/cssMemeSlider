@@ -233,53 +233,53 @@ label:hover span {
  }
 
 
-#r8:checked~.wrapper .slides .s1{
-    margin-left: -70%;
-}
-#r8:checked~.wrapper_down .navigation .circle8{
-    box-sizing: border-box;
-   border: 0.1rem solid #fff;
-   background-color: transparent; 
-}
-#r8:checked~.wrapper_down label:hover .circle8{
-  border-color: #01b3fa;
-}
-#r8:checked~.wrapper_down .text_container .s1{
-    margin-left: -70%;
- }
+/* #r8:checked~.wrapper .slides .s1{ */
+    /* margin-left: -70%; */
+/* } */
+/* #r8:checked~.wrapper_down .navigation .circle8{ */
+    /* box-sizing: border-box; */
+   /* border: 0.1rem solid #fff; */
+   /* background-color: transparent;  */
+/* } */
+/* #r8:checked~.wrapper_down label:hover .circle8{ */
+  /* border-color: #01b3fa; */
+/* } */
+/* #r8:checked~.wrapper_down .text_container .s1{ */
+    /* margin-left: -70%; */
+ /* } */
 
 
-#r9:checked~.wrapper .slides .s1{
-    margin-left: -80%;
-}
-#r9:checked~.wrapper_down .navigation .circle9{
-    box-sizing: border-box;
-   border: 0.1rem solid #fff;
-   background-color: transparent; 
+/* #r9:checked~.wrapper .slides .s1{ */
+    /* margin-left: -80%; */
+/* } */
+/* #r9:checked~.wrapper_down .navigation .circle9{ */
+    /* box-sizing: border-box; */
+   /* border: 0.1rem solid #fff; */
+   /* background-color: transparent;  */
 
-}
-#r9:checked~.wrapper_down label:hover .circle9{
-  border-color: #01b3fa;
-}
-#r9:checked~.wrapper_down .text_container .s1{
-    margin-left: -80%;
- }
+/* } */
+/* #r9:checked~.wrapper_down label:hover .circle9{ */
+  /* border-color: #01b3fa; */
+/* } */
+/* #r9:checked~.wrapper_down .text_container .s1{ */
+    /* margin-left: -80%; */
+ /* } */
 
 
-#r10:checked~.wrapper .slides .s1{
-    margin-left: -90%;
-}
-#r10:checked~.wrapper_down .navigation .circle10{
-    box-sizing: border-box;
-   border: 0.1rem solid #fff;
-   background-color: transparent; 
-}
-#r10:checked~.wrapper_down label:hover .circle10{
-  border-color: #01b3fa;
-}
-#r10:checked~.wrapper_down .text_container .s1{
-    margin-left: -90%;
- }
+/* #r10:checked~.wrapper .slides .s1{ */
+    /* margin-left: -90%; */
+/* } */
+/* #r10:checked~.wrapper_down .navigation .circle10{ */
+    /* box-sizing: border-box; */
+   /* border: 0.1rem solid #fff; */
+   /* background-color: transparent;  */
+/* } */
+/* #r10:checked~.wrapper_down label:hover .circle10{ */
+  /* border-color: #01b3fa; */
+/* } */
+/* #r10:checked~.wrapper_down .text_container .s1{ */
+    /* margin-left: -90%; */
+ /* } */
 
 @media (max-width: 700px) {
 
